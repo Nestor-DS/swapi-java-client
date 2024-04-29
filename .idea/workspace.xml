@@ -4,17 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dfa97d76-52af-4eb4-8db5-55a75760a831" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Movie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MovieQuery.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/starwarsapi.iml" afterDir="false" />
-    </list>
+    <list default="true" id="dfa97d76-52af-4eb4-8db5-55a75760a831" name="Changes" comment="First Commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,6 +21,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Nestor-DS"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Nestor-DS/swapi-java-client.git",
+    "accountId": "d89803de-1b00-4cb9-a120-e9ebf25ed210"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 0
 }]]></component>
@@ -44,14 +46,19 @@
   "keyToString": {
     "Application.Main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/nesto/Downloads/gson-2.10.1.jar",
+    "last_opened_file_path": "C:/Users/nesto/IdeaProjects/starwarsapi/others",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\nesto\IdeaProjects\starwarsapi\others" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
@@ -75,6 +82,64 @@
       <option name="presentableId" value="Default" />
       <updated>1714288650778</updated>
     </task>
+    <task id="LOCAL-00001" summary="README">
+      <option name="closed" value="true" />
+      <created>1714292228134</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1714292228134</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Json File Generator">
+      <option name="closed" value="true" />
+      <created>1714292274443</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1714292274443</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Movie record creation">
+      <option name="closed" value="true" />
+      <created>1714292314513</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1714292314513</updated>
+    </task>
+    <task id="LOCAL-00004" summary="API Query Class">
+      <option name="closed" value="true" />
+      <created>1714292345773</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1714292345773</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Main Class">
+      <option name="closed" value="true" />
+      <created>1714292360994</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1714292360994</updated>
+    </task>
+    <task id="LOCAL-00006" summary="First Commit">
+      <option name="closed" value="true" />
+      <created>1714292371985</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1714292371985</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="README" />
+    <MESSAGE value="Json File Generator" />
+    <MESSAGE value="Movie record creation" />
+    <MESSAGE value="API Query Class" />
+    <MESSAGE value="Main Class" />
+    <MESSAGE value="First Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="First Commit" />
   </component>
 </project>
